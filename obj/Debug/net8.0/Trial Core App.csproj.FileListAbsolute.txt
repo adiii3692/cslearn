@@ -1,0 +1,30 @@
+C:\Users\adina\Desktop\code\Trial Core App\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\adina\Desktop\code\Trial Core App\bin\Debug\net8.0\appsettings.json
+C:\Users\adina\Desktop\code\Trial Core App\bin\Debug\net8.0\Trial Core App.staticwebassets.runtime.json
+C:\Users\adina\Desktop\code\Trial Core App\bin\Debug\net8.0\Trial Core App.exe
+C:\Users\adina\Desktop\code\Trial Core App\bin\Debug\net8.0\Trial Core App.deps.json
+C:\Users\adina\Desktop\code\Trial Core App\bin\Debug\net8.0\Trial Core App.runtimeconfig.json
+C:\Users\adina\Desktop\code\Trial Core App\bin\Debug\net8.0\Trial Core App.dll
+C:\Users\adina\Desktop\code\Trial Core App\bin\Debug\net8.0\Trial Core App.pdb
+C:\Users\adina\Desktop\code\Trial Core App\obj\Debug\net8.0\Trial Core App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adina\Desktop\code\Trial Core App\obj\Debug\net8.0\Trial Core App.AssemblyInfoInputs.cache
+C:\Users\adina\Desktop\code\Trial Core App\obj\Debug\net8.0\Trial Core App.AssemblyInfo.cs
+C:\Users\adina\Desktop\code\Trial Core App\obj\Debug\net8.0\Trial Core App.csproj.CoreCompileInputs.cache
+C:\Users\adina\Desktop\code\Trial Core App\obj\Debug\net8.0\Trial Core App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adina\Desktop\code\Trial Core App\obj\Debug\net8.0\Trial Core App.RazorAssemblyInfo.cache
+C:\Users\adina\Desktop\code\Trial Core App\obj\Debug\net8.0\Trial Core App.RazorAssemblyInfo.cs
+C:\Users\adina\Desktop\code\Trial Core App\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\adina\Desktop\code\Trial Core App\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\adina\Desktop\code\Trial Core App\obj\Debug\net8.0\staticwebassets\msbuild.Trial Core App.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\adina\Desktop\code\Trial Core App\obj\Debug\net8.0\staticwebassets\msbuild.build.Trial Core App.props
+C:\Users\adina\Desktop\code\Trial Core App\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Trial Core App.props
+C:\Users\adina\Desktop\code\Trial Core App\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Trial Core App.props
+C:\Users\adina\Desktop\code\Trial Core App\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\adina\Desktop\code\Trial Core App\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\adina\Desktop\code\Trial Core App\obj\Debug\net8.0\scopedcss\bundle\Trial Core App.styles.css
+C:\Users\adina\Desktop\code\Trial Core App\obj\Debug\net8.0\scopedcss\projectbundle\Trial Core App.bundle.scp.css
+C:\Users\adina\Desktop\code\Trial Core App\obj\Debug\net8.0\Trial Core App.dll
+C:\Users\adina\Desktop\code\Trial Core App\obj\Debug\net8.0\refint\Trial Core App.dll
+C:\Users\adina\Desktop\code\Trial Core App\obj\Debug\net8.0\Trial Core App.pdb
+C:\Users\adina\Desktop\code\Trial Core App\obj\Debug\net8.0\Trial Core App.genruntimeconfig.cache
+C:\Users\adina\Desktop\code\Trial Core App\obj\Debug\net8.0\ref\Trial Core App.dll
