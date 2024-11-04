@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\adina\\Desktop\\code\\Trial Core App\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2923F602-E21E-40EC-AA95-99020BBF4EB0}|Trial Core App.csproj|c:\\users\\adina\\desktop\\code\\trial core app\\data\\trial_core_appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2923F602-E21E-40EC-AA95-99020BBF4EB0}|Trial Core App.csproj|solutionrelative:data\\trial_core_appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2923F602-E21E-40EC-AA95-99020BBF4EB0}|Trial Core App.csproj|c:\\users\\adina\\desktop\\code\\trial core app\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2923F602-E21E-40EC-AA95-99020BBF4EB0}|Trial Core App.csproj|solutionrelative:models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2923F602-E21E-40EC-AA95-99020BBF4EB0}|Trial Core App.csproj|c:\\users\\adina\\desktop\\code\\trial core app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2923F602-E21E-40EC-AA95-99020BBF4EB0}|Trial Core App.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2923F602-E21E-40EC-AA95-99020BBF4EB0}|Trial Core App.csproj|c:\\users\\adina\\desktop\\code\\trial core app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2923F602-E21E-40EC-AA95-99020BBF4EB0}|Trial Core App.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2923F602-E21E-40EC-AA95-99020BBF4EB0}|Trial Core App.csproj|c:\\users\\adina\\desktop\\code\\trial core app\\views\\items\\overview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2923F602-E21E-40EC-AA95-99020BBF4EB0}|Trial Core App.csproj|solutionrelative:views\\items\\overview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2923F602-E21E-40EC-AA95-99020BBF4EB0}|Trial Core App.csproj|c:\\users\\adina\\desktop\\code\\trial core app\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2923F602-E21E-40EC-AA95-99020BBF4EB0}|Trial Core App.csproj|solutionrelative:controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2923F602-E21E-40EC-AA95-99020BBF4EB0}|Trial Core App.csproj|c:\\users\\adina\\desktop\\code\\trial core app\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2923F602-E21E-40EC-AA95-99020BBF4EB0}|Trial Core App.csproj|solutionrelative:models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,42 +34,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\adina\\Desktop\\code\\Trial Core App\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\adina\\Desktop\\code\\Trial Core App\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-04T06:56:33.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Overview.cshtml",
-              "DocumentMoniker": "C:\\Users\\adina\\Desktop\\code\\Trial Core App\\Views\\Items\\Overview.cshtml",
-              "RelativeDocumentMoniker": "Views\\Items\\Overview.cshtml",
-              "ToolTip": "C:\\Users\\adina\\Desktop\\code\\Trial Core App\\Views\\Items\\Overview.cshtml*",
-              "RelativeToolTip": "Views\\Items\\Overview.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-03T19:24:31.29Z",
+              "Title": "Trial_Core_AppContext.cs",
+              "DocumentMoniker": "C:\\Users\\adina\\Desktop\\code\\Trial Core App\\Data\\Trial_Core_AppContext.cs",
+              "RelativeDocumentMoniker": "Data\\Trial_Core_AppContext.cs",
+              "ToolTip": "C:\\Users\\adina\\Desktop\\code\\Trial Core App\\Data\\Trial_Core_AppContext.cs",
+              "RelativeToolTip": "Data\\Trial_Core_AppContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T06:45:24.907Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "Overview.cshtml",
+              "DocumentMoniker": "C:\\Users\\adina\\Desktop\\code\\Trial Core App\\Views\\Items\\Overview.cshtml",
+              "RelativeDocumentMoniker": "Views\\Items\\Overview.cshtml",
+              "ToolTip": "C:\\Users\\adina\\Desktop\\code\\Trial Core App\\Views\\Items\\Overview.cshtml",
+              "RelativeToolTip": "Views\\Items\\Overview.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T20:22:34.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adina\\Desktop\\code\\Trial Core App\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\adina\\Desktop\\code\\Trial Core App\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T19:54:36.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ItemsController.cs",
               "DocumentMoniker": "C:\\Users\\adina\\Desktop\\code\\Trial Core App\\Controllers\\ItemsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ItemsController.cs",
-              "ToolTip": "C:\\Users\\adina\\Desktop\\code\\Trial Core App\\Controllers\\ItemsController.cs*",
-              "RelativeToolTip": "Controllers\\ItemsController.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\adina\\Desktop\\code\\Trial Core App\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "Controllers\\ItemsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-03T19:10:35.346Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Item.cs",
               "DocumentMoniker": "C:\\Users\\adina\\Desktop\\code\\Trial Core App\\Models\\Item.cs",
               "RelativeDocumentMoniker": "Models\\Item.cs",
-              "ToolTip": "C:\\Users\\adina\\Desktop\\code\\Trial Core App\\Models\\Item.cs*",
-              "RelativeToolTip": "Models\\Item.cs*",
+              "ToolTip": "C:\\Users\\adina\\Desktop\\code\\Trial Core App\\Models\\Item.cs",
+              "RelativeToolTip": "Models\\Item.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-03T19:01:45.484Z",

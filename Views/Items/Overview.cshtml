@@ -2,6 +2,12 @@
 @model Trial_Core_App.Models.Item
 
 @{
+    var items = new List<string> {"Adi","Padi","Badi"};
 }
 
-<p>This is the name of the item: @Model.Name</p>
+<ul>
+    @foreach(var string_item in items)
+    {
+        <li>@string_item</li>
+    }
+</ul>
