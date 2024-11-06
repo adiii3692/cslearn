@@ -13,3 +13,4 @@ namespace Trial_Core_App.Data
         public DbSet<Item> Items { get; set; }
     }
 }
+ 

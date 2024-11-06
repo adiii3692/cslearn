@@ -1,0 +1,33 @@
+﻿@*Import the items model*@
+@model List<Trial_Core_App.Models.Item>
+
+@{
+    ViewData["Title"] = "Item Index";
+}
+
+<h1>Item Index Page</h1>
+
+<a asp-action="Create">Create</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <td>Name</td>
+            <td>Price</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>$@item.Price</td>
+
+
+                <td><a asp-action="edit" asp-route-id="@item.Id">edit</a></td>
+                <td><a asp-action="delete" asp-route-id="@item.Id">delete</a></td>
+           
+            </tr>
+        }
+    </tbody>
+</table>
